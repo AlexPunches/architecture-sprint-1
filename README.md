@@ -81,3 +81,7 @@ flowchart BT
 А команда, которая пришла на помощь, будет работать с `microfrontend_popup`, `microfrontend_auth`. 
 А потом, возможно, и другими новыми микрофронтендами.
 
+
+# 2 Задание
+
+[Схема микросервисов на draw.io](https://drive.google.com/file/d/1y9ro_KpfNJT_QUIIQTd7vKhqX3ZWilqQ/view?usp=sharing)
