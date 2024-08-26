@@ -84,4 +84,10 @@ flowchart BT
 
 # 2 Задание
 
+UPD v0.0.2:
+- фронтенд разделен на микрофронтенды
+- в сервис Auth добавлено хранилище токенов на Redis
+- в каталог добавлено Кэш-хранилище на Redis
+- в описание взаимодействий добавлены пункты 13 и 14 про токены
+
 [Схема микросервисов на draw.io](https://drive.google.com/file/d/1y9ro_KpfNJT_QUIIQTd7vKhqX3ZWilqQ/view?usp=sharing)
