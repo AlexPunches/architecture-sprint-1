@@ -7,6 +7,6 @@
 @import url('../microfrontend_core/blocks/profile/profile.css');
 @import url('../microfrontend_core/blocks/places/places.css');
 @import url('../microfrontend_core/blocks/card/card.css');
-@import url('../microfrontend_popup/blocks/popup/popup.css');
-@import url('../microfrontend_popup/blocks/popup/_is-opened/popup_is-opened.css');
+@import url('../microfrontend_popup_editor/blocks/popup/popup.css');
+@import url('../microfrontend_popup_editor/blocks/popup/_is-opened/popup_is-opened.css');
 @import url('../microfrontend_auth/blocks/auth-form/auth-form.css');
